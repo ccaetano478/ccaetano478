@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
-<h3 align="center">I'm a Computer Engineering student, aspiring developer, working with people and helping solve customers' problems.</h3>
+<h3 align="center">I'm a Computer Engineering student, fullstack developer (getting there), working with people and helping solve customers' problems.</h3>
 
 - 🔭 I’m currently working at **Banco Sofisa S/A**
 
